@@ -2,6 +2,7 @@
 
 # Import module used for dialogue boxes
 import tkinter as tk
+dialogues = []
 
 def dialogue():
     # Defining what happens when user clicks the continue button
